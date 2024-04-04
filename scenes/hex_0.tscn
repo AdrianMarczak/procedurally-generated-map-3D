@@ -1,0 +1,7 @@
+[gd_scene load_steps=3 format=3 uid="uid://ctu0l3idj6gu5"]
+
+[ext_resource type="PackedScene" uid="uid://do5kbj0dk8riy" path="res://BlenderAssets/Hex.blend" id="1_r8dm7"]
+[ext_resource type="Script" path="res://Scripts/Hex.gd" id="2_5mfq5"]
+
+[node name="Hex" instance=ExtResource("1_r8dm7")]
+script = ExtResource("2_5mfq5")
