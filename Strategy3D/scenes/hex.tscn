@@ -1,8 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://b3wlw1h8jurfv"]
-
-[ext_resource type="PackedScene" uid="uid://do5kbj0dk8riy" path="res://BlenderAssets/Hex.blend" id="1_r8dm7"]
-
-[node name="Node3D" type="Node3D"]
-transform = Transform3D(0.866025, 0, 0.5, 0, 1, 0, -0.5, 0, 0.866025, 0, 0, 0)
-
-[node name="Hex" parent="." instance=ExtResource("1_r8dm7")]
