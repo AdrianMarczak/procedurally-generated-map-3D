@@ -1,5 +1,5 @@
 # procedurally-generated-map-3D
-I embarked on this project following the exploration of the "2D Strategy" concept, at the same time I started to take interest in Blender. The primary goal was to test whether I could replicate the procedural generation mechanics using 3D assets, with the aim of evaluating its visual impact in a three-dimensional environment and refining the code from the previous endeavor.
+I embarked on this project during the "2D Strategy" development phase, at the same time I started to take interest in Blender. The primary goal was to test whether I could replicate the procedural generation mechanics using 3D assets, with the aim of evaluating its visual impact in a three-dimensional environment and refining the code from the previous endeavor.
 
 Undoubtedly, the process presented challenges alongside moments of enjoyment. Throughout this journey, I gained profound insights into the intricacies of working with 3D objects, understanding their behaviors, and mastering their integration into the game engine. While demanding, this project provided invaluable learning opportunities, significantly enhancing my proficiency in 3D modeling and implementation.
 
